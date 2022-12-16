@@ -3,6 +3,7 @@
 Author: Fardeen Ahmad Khan
 
 Hi there! This project is a simple python program that simulates the famous RPS Game. This directory contains two files:
+
         - RockPaperSci.py: contains the two classes Player and Computer, Player has attributes 'lives', 'score', 'choice' all of these are accessed by custom getters and setters. All these are manipulated by game logic.
 
         - main.py: This is the main file which has the gameStart function, inside the function is the real comparison which determines the winner and loser and call the appropriate function to update the values for the player.
