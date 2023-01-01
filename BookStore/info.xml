@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book name="B1">
+        <title>Chronicles of Narnia</title>
+        <author>C. S. Lewis</author>
+        <published>1950</published>
+    </book>
+    <book name="B2">
+        <title>Rich Dad Poor Dad</title>
+        <author>Robert T Kiyosaki</author>
+        <published>2000</published>
+    </book>
+    <book name="B3">
+        <title>The Subtle Art of Not Giving a F**K</title>
+        <author>Mark Manson</author>
+        <published>2016</published>
+    </book>
+    <book name="B4">
+        <title>Atomic Habits</title>
+        <author>James Clear</author>
+        <published>2018</published>
+    </book>
+</library>
